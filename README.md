@@ -1,2 +1,2 @@
 # Scripts
-This repo contains all scripts generated at TGX
+This repo is for documenting scripts generated at TGX
